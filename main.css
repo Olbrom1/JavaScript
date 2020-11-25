@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 60px;
+    transform: rotate(-10deg);
+}
+.kubek {
+    width: 200px;
+    height: 200px;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 0 0 25px 25px;
+    cursor: pointer;
+    float: left;
+    margin: 20px;
+    background-size: 200% 200%;
+    background-image: linear-gradient(to top, #fff700 50%, transparent 50%);
+    transition: background-position 1000ms;
+}
+.zolty {
+    background-image: linear-gradient(to top, #fff700 50%, transparent 50%);
+}
+.zielony {
+    background-image: linear-gradient(to top,#299617 50%, transparent 50%);
+}
+.niebieski {
+    background-image: linear-gradient(to top, #5DADEC 50%, transparent 50%);
+}
+.fioletowy {
+    background-image: linear-gradient(to top, #9C51B6 50%, transparent 50%);
+}
+.czerwony {
+    background-image: linear-gradient(to top, #FF3855 50%, transparent 50%);
+}
+.brazowy {
+    background-image: linear-gradient(to top, #a83731 50%, transparent 50%);
+}
